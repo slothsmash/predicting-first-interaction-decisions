@@ -1,6 +1,6 @@
 # predicting-first-interaction-decisions
 
-See the attached PDF file.
+[See the attached PDF file.](https://github.com/slothsmash/predicting-first-interaction-decisions/blob/main/Predicting_First_Interaction_Decision%2024-9-21.pdf)
 
 ## Abstract
 
